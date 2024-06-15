@@ -25,7 +25,7 @@ npm deploy:mainnet
 
 ```
 
-Then, copy a contract address and insert it into `scripts/config.js`:
+Then, copy a contract address and insert it into `config.js`:
 
 ```javascript
 const config = {
@@ -51,7 +51,7 @@ npm install
 npm deploy:mainnet
 ```
 
-Then, copy a contract address and insert it into `scripts/config.js`:
+Then, copy a contract address and insert it into `config.js`:
 
 ```javascript
 const config = {
